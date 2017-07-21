@@ -1,2 +1,2 @@
-# jfft-coursera
+# datasciencecoursera
 Coursera initial setup
